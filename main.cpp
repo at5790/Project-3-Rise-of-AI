@@ -110,7 +110,7 @@ void initialise()
     gShader.load("shaders/vertex.glsl", "shaders/fragment.glsl");
 
     gLevelA = new LevelA(ORIGIN, "#C0897E");
-    gLevelB = new LevelB(ORIGIN, "#FFFFFF");
+    gLevelB = new LevelB(ORIGIN, "#ADD8E6");
 
     gLevelC = new LevelC(ORIGIN, "#ADD8E6");
 
